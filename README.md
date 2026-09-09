@@ -1,31 +1,43 @@
-# Machine Learning & Data Visualization with Python
+# Data Visualization & Machine Learning Practice
 
-A collection of practical data visualization and machine learning
-visualization exercises using Python.
+This repository contains my hands-on Python practice in data analysis,
+data visualization, and introductory machine learning.
 
-## Topics Covered
+## Skills Demonstrated
 
-- Matplotlib
+- Python
 - Pandas
-- Statistical Data Visualization
-- Histograms and Box Plots
-- 3D Data Visualization
-- Clustering Visualization
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Data preprocessing
+- Data visualization
+- Classification
+- Clustering
+- Decision trees
+- Neural networks
+
+## Contents
+
+### Data Visualization
+Practice with:
+- Histograms
+- Box plots
+- Scatter plots
+- 3D visualization
+- Seaborn visualizations
+
+### Machine Learning
+Practice with:
+- Decision Trees
 - Confusion Matrices
-- Decision Tree Visualization
-- Neural Network Visualization
+- Clustering
+- Neural Networks
 
-## Technologies
-
-Python • NumPy • Pandas • Matplotlib • Scikit-learn • Jupyter
-
-## Machine Learning Visualizations
-
-### Decision Trees
-Visualizing classification trees and model structure.
-
-### Neural Networks
-Visualizing neural network architectures and model behavior.
-
-### Clustering
-2D and 3D visualization of clustered datasets.
+### Data Analysis
+Practice with:
+- Pandas
+- Data manipulation
+- API data
+- Exploratory data analysis
